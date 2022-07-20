@@ -1,3 +1,6 @@
 {
-  "item.tutorial.stick": "Stick"
+  "item.tutorial.stick": "Stick",
+  "item.tutorial.diamond_stick": "Diamond Stick",
+
+  "itemGroup.tutorialmod.stick": "Stick Tutorial Tab"
 }
