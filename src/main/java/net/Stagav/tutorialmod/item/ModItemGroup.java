@@ -8,6 +8,6 @@ import net.minecraft.util.Identifier;
 
 public class ModItemGroup {
 
-    public static final ItemGroup OP_WEAPONS = FabricItemGroupBuilder.build(new Identifier(TutorialMod.MOD_ID, "stick"), () -> new ItemStack(ModItems.STICK));
+    public static final ItemGroup DISCS = FabricItemGroupBuilder.build(new Identifier(TutorialMod.MOD_ID, "disc_69"), () -> new ItemStack(ModItems.AYA_DISC));
 
 }
