@@ -7,11 +7,11 @@
 
   "key": {
     "#": {
-      "item": "minecraft:iron_ingot"
+      "item": "minecraft:gold_ingot"
     }
   },
   "result":
   {
-    "item": "tutorialmod:disc_two"
+    "item": "tutorialmod:congrats_music_disc"
   }
 }

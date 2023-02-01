@@ -1,6 +1,8 @@
 {
-  "item.tutorialmod.disc_one": "Disc 69",
-  "item.tutorialmod.disc_two": "Disc 420",
+  "item.tutorialmod.congrats_music_disc": "Disc 69",
+  "item.tutorialmod.congrats_music_disc.desc": "Congratulations - Mac Miller",
+  "item.tutorialmod.here_music_disc": "Disc 420",
+  "item.tutorialmod.here_music_disc.desc": "Here, There And Everywhere - The Beatles",
 
   "itemGroup.tutorialmod.discs": "Disc Tab"
 }
