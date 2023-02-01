@@ -1,6 +1,6 @@
 {
-  "item.tutorial.aya_disc": "disc 69",
-  "item.tutorial.aya_disc2": "disc 420",
+  "item.tutorial.DISC_ONE": "disc 69",
+  "item.tutorial.DISC_TWO": "disc 420",
 
   "itemGroup.tutorialmod.stick": "Disc Tab"
 }
