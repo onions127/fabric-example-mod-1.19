@@ -9,9 +9,9 @@ import net.minecraft.util.registry.Registry;
 
 public class ModItems {
 
-    public static final Item DISC_ONE = registerItem("disc_69", new Item(new FabricItemSettings().group(ModItemGroup.DISCS)));
+    public static final Item DISC_ONE = registerItem("disc_one", new Item(new FabricItemSettings().group(ModItemGroup.DISCS)));
 
-    public static final Item DISC_TWO = registerItem("disc_420", new Item(new FabricItemSettings().group(ModItemGroup.DISCS)));
+    public static final Item DISC_TWO = registerItem("disc_two", new Item(new FabricItemSettings().group(ModItemGroup.DISCS)));
 
 
 

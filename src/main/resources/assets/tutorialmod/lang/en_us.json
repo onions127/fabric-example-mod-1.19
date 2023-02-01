@@ -1,6 +1,6 @@
 {
-  "item.tutorial.DISC_ONE": "disc 69",
-  "item.tutorial.DISC_TWO": "disc 420",
+  "item.tutorialmod.disc_one": "Disc 69",
+  "item.tutorialmod.disc_two": "Disc 420",
 
-  "itemGroup.tutorialmod.stick": "Disc Tab"
+  "itemGroup.tutorialmod.discs": "Disc Tab"
 }
