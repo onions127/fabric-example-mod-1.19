@@ -11,6 +11,10 @@ public class ModSounds {
 
     public static SoundEvent HERE_MUSIC = registerSoundEvent("here");
 
+    public static SoundEvent AOT_MUSIC = registerSoundEvent("aot");
+
+    public static SoundEvent SASAGEYO_MUSIC = registerSoundEvent("sasageyo");
+
 
     private static SoundEvent registerSoundEvent(String name)
     {

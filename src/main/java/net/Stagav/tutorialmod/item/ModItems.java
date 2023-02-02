@@ -11,13 +11,11 @@ import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;
 
 public class ModItems {
-    public static final Identifier congrats = new Identifier("tutorialmod:congrats");
-    public static SoundEvent play_congrats = new SoundEvent(congrats);
-    public static final Identifier here = new Identifier("tutorialmod:here");
-    public static SoundEvent play_here = new SoundEvent(here);
 
     public static final Item CONGRATS_MUSIC_DISC = registerItem("congrats_music_disc", new ModMusicDiscItem(7, ModSounds.CONGRATS_MUSIC,  new FabricItemSettings().group(ModItemGroup.DISCS).maxCount(1)));
     public static final Item HERE_MUSIC_DISC = registerItem("here_music_disc", new ModMusicDiscItem(7, ModSounds.HERE_MUSIC,  new FabricItemSettings().group(ModItemGroup.DISCS).maxCount(1)));
+    public static final Item AOT_MUSIC_DISC = registerItem("aot_music_disc", new ModMusicDiscItem(7, ModSounds.AOT_MUSIC,  new FabricItemSettings().group(ModItemGroup.DISCS).maxCount(1)));
+    public static final Item SASAGEYO_MUSIC_DISC = registerItem("sasageyo_music_disc", new ModMusicDiscItem(7, ModSounds.SASAGEYO_MUSIC,  new FabricItemSettings().group(ModItemGroup.DISCS).maxCount(1)));
 
     private static Item registerItem(String name, Item item) {
         return Registry.register(Registry.ITEM, new Identifier(TutorialMod.MOD_ID, name), item);

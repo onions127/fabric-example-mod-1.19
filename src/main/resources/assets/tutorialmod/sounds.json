@@ -16,6 +16,24 @@
         "stream": true
       }
     ]
+  },
+
+  "aot": {
+    "sounds": [
+      {
+        "name":"tutorialmod:aot",
+        "stream": true
+      }
+    ]
+  },
+
+  "sasageyo": {
+    "sounds": [
+      {
+        "name":"tutorialmod:sasageyo",
+        "stream": true
+      }
+    ]
   }
 
 }
