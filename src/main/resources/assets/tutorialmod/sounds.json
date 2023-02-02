@@ -1,8 +1,21 @@
 {
-  "music": {
+  "congrats": {
     "sounds":  [
-      "tutorialmod:congrats",
-      "tutorialmod:here"
+      {
+        "name":"tutorialmod:congrats",
+        "stream": true
+      }
+
+    ]
+  },
+
+  "here": {
+    "sounds": [
+      {
+        "name":"tutorialmod:here",
+        "stream": true
+      }
     ]
   }
+
 }
