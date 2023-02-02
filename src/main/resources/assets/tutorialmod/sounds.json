@@ -34,6 +34,15 @@
         "stream": true
       }
     ]
+  },
+
+  "sadness_and_sorrow": {
+    "sounds": [
+      {
+        "name":"tutorialmod:sadness_and_sorrow",
+        "stream": true
+      }
+    ]
   }
 
 }

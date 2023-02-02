@@ -15,6 +15,8 @@ public class ModSounds {
 
     public static SoundEvent SASAGEYO_MUSIC = registerSoundEvent("sasageyo");
 
+    public static SoundEvent SADNESS_AND_SORROW_MUSIC = registerSoundEvent("sadness_and_sorrow");
+
 
     private static SoundEvent registerSoundEvent(String name)
     {

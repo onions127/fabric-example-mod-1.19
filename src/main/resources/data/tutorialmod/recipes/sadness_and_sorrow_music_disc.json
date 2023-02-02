@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#I#",
+    "###"],
+
+  "key": {
+    "#": {
+      "item": "minecraft:iron_ingot"
+    },
+    "I": {
+      "item": "minecraft:feather"
+    }
+  },
+  "result":
+  {
+    "item": "tutorialmod:sadness_and_sorrow_music_disc"
+  }
+}
