@@ -17,6 +17,7 @@ public class ModItems {
     public static final Item AOT_MUSIC_DISC = registerItem("aot_music_disc", new ModMusicDiscItem(7, ModSounds.AOT_MUSIC,  new FabricItemSettings().group(ModItemGroup.DISCS).maxCount(1)));
     public static final Item SASAGEYO_MUSIC_DISC = registerItem("sasageyo_music_disc", new ModMusicDiscItem(7, ModSounds.SASAGEYO_MUSIC,  new FabricItemSettings().group(ModItemGroup.DISCS).maxCount(1)));
     public static final Item SADNESS_AND_SORROW_MUSIC_DISC = registerItem("sadness_and_sorrow_music_disc", new ModMusicDiscItem(7, ModSounds.SADNESS_AND_SORROW_MUSIC,  new FabricItemSettings().group(ModItemGroup.DISCS).maxCount(1)));
+    public static final Item REI_MUSIC_DISC = registerItem("rei_music_disc", new ModMusicDiscItem(7, ModSounds.REI_MUSIC,  new FabricItemSettings().group(ModItemGroup.DISCS).maxCount(1)));
 
     private static Item registerItem(String name, Item item) {
         return Registry.register(Registry.ITEM, new Identifier(TutorialMod.MOD_ID, name), item);

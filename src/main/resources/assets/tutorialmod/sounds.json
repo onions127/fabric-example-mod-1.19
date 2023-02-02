@@ -43,6 +43,15 @@
         "stream": true
       }
     ]
+  },
+
+  "rei": {
+    "sounds": [
+      {
+        "name":"tutorialmod:rei",
+        "stream": true
+      }
+    ]
   }
 
 }
